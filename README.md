@@ -6,6 +6,9 @@
   <img align="center" alt="ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ygor-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="ygor-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
 </div>
 
 ##
@@ -25,3 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ygor6439&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygor6439&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+  ##
+  
